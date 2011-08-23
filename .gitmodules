@@ -1,0 +1,18 @@
+[submodule "virtualenv"]
+	path = virtualenv
+	url = git://github.com/pypa/virtualenv.git
+[submodule "django-south"]
+	path = django-south
+	url = git://github.com/theatlantic/django-south.git
+[submodule "django"]
+	path = django
+	url = git://github.com/django/django
+[submodule "pyflakes"]
+	path = pyflakes
+	url = git://github.com/kevinw/pyflakes
+[submodule "gunicorn"]
+	path = gunicorn
+	url = git://github.com/benoitc/gunicorn
+[submodule "ipython"]
+	path = ipython
+	url = git://github.com/ipython/ipython
